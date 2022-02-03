@@ -11,5 +11,7 @@ Credd API! 👀 I plan to make some features auto workable with the api, and may
 Decimal to binary converter
 <br>
 Brute Force tool (might not be able to use WIP api)
+<br>
+Guilded webhook for recording logs on credd repo
 # END
 
