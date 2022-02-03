@@ -6,7 +6,7 @@ This is highly WIP and most recent code probably will be unfinished or very ligh
 <br><br>
 # Working on:
 <br>
-Credd API! 👀 I plan to make some features auto workable with the api, and maybe even allow more cool stuff.2
+Credd API! 👀 I plan to make some features auto workable with the api, and maybe even allow more cool stuff.
 <br>
 Decimal to binary converter
 <br>
